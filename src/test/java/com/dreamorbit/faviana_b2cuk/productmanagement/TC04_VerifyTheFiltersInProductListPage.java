@@ -11,8 +11,7 @@ import com.dreamorbit.faviana_b2cuk.testbase.TestBase;
 
 public class TC04_VerifyTheFiltersInProductListPage extends TestBase {
 
-	public static final Logger log = Logger
-			.getLogger(TC04_VerifyTheFiltersInProductListPage.class.getName());
+	public static final Logger log = Logger.getLogger(TC04_VerifyTheFiltersInProductListPage.class.getName());
 
 	LandingPage landing;
 	ProductPage product;
@@ -31,10 +30,10 @@ public class TC04_VerifyTheFiltersInProductListPage extends TestBase {
 	@Test
 	public void verifyTheFiltersInProductListPage() {
 		log.info("verifyTheFiltersInProductListPage test execution started");
-//		landing.clickingOnBlackPromDressesPresentUnderPromDressesByColor();
-//		product.verifyingTheFiltersDisplayedInPromDressesByColorPage();
-//		landing.clickingOnLongPromDressesPresentUnderPromDressesByStyle();
-//		product.verifyingTheFiltersDisplayedInPromDressesByStylePage();
+		// landing.clickingOnBlackPromDressesPresentUnderPromDressesByColor();
+		// product.verifyingTheFiltersDisplayedInPromDressesByColorPage();
+		// landing.clickingOnLongPromDressesPresentUnderPromDressesByStyle();
+		// product.verifyingTheFiltersDisplayedInPromDressesByStylePage();
 		landing.clickingOnPromDresses();
 		product.verifyingTheFiltersDisplayedInPromDressesPage();
 		product.selectingOptionsFromStyleFilter();
@@ -42,13 +41,12 @@ public class TC04_VerifyTheFiltersInProductListPage extends TestBase {
 		product.selectingOptionsFromSizeFilter();
 		product.selectingOptionsFromCollectionFilter();
 		log.info("verifyTheFiltersInProductListPage test executed successfully");
-		
-		//TEST
+
 	}
 
 	@AfterClass
 	public void tearDown() {
-//		endTest();
+		// endTest();
 	}
 
 }
