@@ -42,6 +42,8 @@ public class TC04_VerifyTheFiltersInProductListPage extends TestBase {
 		product.selectingOptionsFromSizeFilter();
 		product.selectingOptionsFromCollectionFilter();
 		log.info("verifyTheFiltersInProductListPage test executed successfully");
+		
+		//TEST
 	}
 
 	@AfterClass
