@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression_Suite"> <!-- parallel="methods" thread-count="5"> -->
+
+	<test name="Customer_Management">
+		<classes>
+			<class
+				name="com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration" />
+			<class
+				name="com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia" />
+			<class
+				name="com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin" />
+			<class
+				name="com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin" />
+		</classes>
+	</test>
+
+	<test name="Product_Management">
+		<classes>
+			<class
+				name="com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage" />
+		</classes>
+	</test>
+
+	<test name="Search">
+		<classes>
+			<class
+				name="com.dreamorbit.faviana_b2cuk.search.TC01_VerifySuccessfulSearch" />
+			<class
+				name="com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch" />
+		</classes>
+	</test>
+
+	<test name="Wishlist">
+		<classes>
+			<class
+				name="com.dreamorbit.faviana_b2cuk.wishlist.TC01_VerifyWishlistForGuest" />
+			<class
+				name="com.dreamorbit.faviana_b2cuk.wishlist.TC02_VerifyWishlistForExistingUsers" />
+			<class
+				name="com.dreamorbit.faviana_b2cuk.wishlist.TC03_VerifyingTheAdditionOfProductToWishlist" />
+			<class
+				name="com.dreamorbit.faviana_b2cuk.wishlist.TC04_VerifyTheNavigationsFromWishlistPage" />
+		</classes>
+	</test>
+
+	<test name="End_To_End_Flow">
+		<classes>
+			<class
+				name="com.dreamorbit.faviana_b2cuk.endtoendflow.TC01_VerifySuccessfulOrderForGuest" />
+
+		</classes>
+	</test>
+</suite> <!-- Regression_Suite -->

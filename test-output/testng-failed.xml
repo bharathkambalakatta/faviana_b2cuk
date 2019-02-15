@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.dreamorbit.faviana_b2cuk.productmanagement.TC04_VerifyTheFiltersInProductListPage">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="verifyTheFiltersInProductListPage"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.dreamorbit.faviana_b2cuk.productmanagement.TC04_VerifyTheFiltersInProductListPage -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

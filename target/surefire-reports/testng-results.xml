@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="3" ignored="0" total="9" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression_Suite" duration-ms="779081" started-at="2018-10-29T07:39:54Z" finished-at="2018-10-29T07:52:53Z">
+    <groups>
+    </groups>
+    <test name="Customer_Management" duration-ms="335849" started-at="2018-10-29T07:39:54Z" finished-at="2018-10-29T07:45:30Z">
+      <class name="com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6321e813]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-10-29T07:41:11Z" finished-at="2018-10-29T07:41:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin.verifyExistingUserLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6321e813]" name="setUp" is-config="true" duration-ms="15897" started-at="2018-10-29T07:41:11Z" finished-at="2018-10-29T07:41:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyExistingUserLogin()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6321e813]" name="verifyExistingUserLogin" duration-ms="9116" started-at="2018-10-29T07:41:27Z" finished-at="2018-10-29T07:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyExistingUserLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6321e813]" name="tearDown" is-config="true" duration-ms="862" started-at="2018-10-29T07:41:36Z" finished-at="2018-10-29T07:41:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6321e813]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-10-29T07:41:37Z" finished-at="2018-10-29T07:41:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyExistingUserLogin status=SUCCESS method=TC03_VerifyExistingUserLogin.verifyExistingUserLogin()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6321e813] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin -->
+      <class name="com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@4973813a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-29T07:40:50Z" finished-at="2018-10-29T07:40:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia.verifyConnectUsingSocialMedia()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@4973813a]" name="setUp" is-config="true" duration-ms="14601" started-at="2018-10-29T07:40:50Z" finished-at="2018-10-29T07:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyConnectUsingSocialMedia()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@4973813a]" name="verifyConnectUsingSocialMedia" duration-ms="5590" started-at="2018-10-29T07:41:05Z" finished-at="2018-10-29T07:41:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConnectUsingSocialMedia -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@4973813a]" name="tearDown" is-config="true" duration-ms="831" started-at="2018-10-29T07:41:10Z" finished-at="2018-10-29T07:41:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@4973813a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-29T07:41:11Z" finished-at="2018-10-29T07:41:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyConnectUsingSocialMedia status=SUCCESS method=TC02_VerifyConnectUsingSocialMedia.verifyConnectUsingSocialMedia()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@4973813a] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia -->
+      <class name="com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@79be0360]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-29T07:41:37Z" finished-at="2018-10-29T07:41:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin.verifyRetailerLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@79be0360]" name="setUp" is-config="true" duration-ms="18239" started-at="2018-10-29T07:41:37Z" finished-at="2018-10-29T07:41:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="verifyRetailerLogin()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@79be0360]" name="verifyRetailerLogin" duration-ms="204733" started-at="2018-10-29T07:41:55Z" finished-at="2018-10-29T07:45:20Z">
+          <exception class="org.openqa.selenium.NoSuchWindowException">
+            <message>
+              <![CDATA[no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=70.0.3538.77)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DOSYSNET042', ip: '172.30.246.151', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\bharath.k\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57233}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true}
+Session ID: 323fcbdfcabe8a0123975b188215f6c7]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=70.0.3538.77)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DOSYSNET042', ip: '172.30.246.151', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\bharath.k\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57233}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true}
+Session ID: 323fcbdfcabe8a0123975b188215f6c7
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+at org.openqa.selenium.remote.RemoteWebDriver.getWindowHandle(RemoteWebDriver.java:468)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.window(RemoteWebDriver.java:903)
+at com.dreamorbit.faviana_b2cuk.pages.LoginPage.clickingOnClickHereToSignInToOurNewRetailerWebsite(LoginPage.java:85)
+at com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin.verifyRetailerLogin(TC04_VerifyRetailerLogin.java:41)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRetailerLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@79be0360]" name="tearDown" is-config="true" duration-ms="9767" started-at="2018-10-29T07:45:20Z" finished-at="2018-10-29T07:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="FAIL" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@79be0360]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-10-29T07:45:30Z" finished-at="2018-10-29T07:45:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyRetailerLogin status=FAILURE method=TC04_VerifyRetailerLogin.verifyRetailerLogin()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@79be0360] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DOSYSNET042', ip: '172.30.246.151', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DOSYSNET042', ip: '172.30.246.151', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:294)
+at com.dreamorbit.faviana_b2cuk.testbase.TestBase.getScreenShot(TestBase.java:119)
+at com.dreamorbit.faviana_b2cuk.testbase.TestBase.getresult(TestBase.java:141)
+at com.dreamorbit.faviana_b2cuk.testbase.TestBase.afterMethod(TestBase.java:154)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin -->
+      <class name="com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration">
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@3a883ce7]" name="beforeMethod" is-config="true" duration-ms="8" started-at="2018-10-29T07:39:54Z" finished-at="2018-10-29T07:39:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration.verifyNewCustomerRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@3a883ce7]" name="setUp" is-config="true" duration-ms="42289" started-at="2018-10-29T07:39:55Z" finished-at="2018-10-29T07:40:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyNewCustomerRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@3a883ce7]" name="verifyNewCustomerRegistration" duration-ms="12262" started-at="2018-10-29T07:40:37Z" data-provider="getRegisterTestData" finished-at="2018-10-29T07:40:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FNTEST]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LNTEST]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FNLN.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test@12345]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Test@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewCustomerRegistration -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@3a883ce7]" name="tearDown" is-config="true" duration-ms="942" started-at="2018-10-29T07:40:49Z" finished-at="2018-10-29T07:40:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@3a883ce7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-10-29T07:40:50Z" finished-at="2018-10-29T07:40:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNewCustomerRegistration status=SUCCESS method=TC01_VerifyNewCustomerRegistration.verifyNewCustomerRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@3a883ce7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration -->
+    </test> <!-- Customer_Management -->
+    <test name="Product_Management" duration-ms="276147" started-at="2018-10-29T07:45:30Z" finished-at="2018-10-29T07:50:06Z">
+      <class name="com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage@2d6eabae]" name="setUp" is-config="true" duration-ms="176100" started-at="2018-10-29T07:45:30Z" finished-at="2018-10-29T07:48:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage@2d6eabae]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-29T07:45:30Z" finished-at="2018-10-29T07:45:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage.verifyBrokenLinks()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="verifyBrokenLinks()[pri:0, instance:com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage@2d6eabae]" name="verifyBrokenLinks" duration-ms="99439" started-at="2018-10-29T07:48:26Z" finished-at="2018-10-29T07:50:05Z">
+          <exception class="org.openqa.selenium.WebDriverException">
+            <message>
+              <![CDATA[chrome not reachable
+  (Session info: chrome=70.0.3538.77)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DOSYSNET042', ip: '172.30.246.151', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\bharath.k\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57603}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true}
+Session ID: 2288ed640cd67c73ad54dec10244d1b8
+*** Element info: {Using=tag name, value=a}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=70.0.3538.77)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DOSYSNET042', ip: '172.30.246.151', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\bharath.k\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:57603}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true}
+Session ID: 2288ed640cd67c73ad54dec10244d1b8
+*** Element info: {Using=tag name, value=a}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:349)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementsByTagName(RemoteWebDriver.java:396)
+at org.openqa.selenium.By$ByTagName.findElements(By.java:312)
+at org.openqa.selenium.remote.RemoteWebDriver.findElements(RemoteWebDriver.java:310)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElements(DefaultElementLocator.java:85)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementListHandler.invoke(LocatingElementListHandler.java:36)
+at com.sun.proxy.$Proxy11.get(Unknown Source)
+at com.dreamorbit.faviana_b2cuk.pages.LandingPage.linksInThePage(LandingPage.java:77)
+at com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage.verifyBrokenLinks(TC00_VerifyLinksInLandingPage.java:36)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.WebDriverException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBrokenLinks -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage@2d6eabae]" name="tearDown" is-config="true" duration-ms="604" started-at="2018-10-29T07:50:05Z" finished-at="2018-10-29T07:50:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="FAIL" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage@2d6eabae]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-10-29T07:50:06Z" finished-at="2018-10-29T07:50:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyBrokenLinks status=FAILURE method=TC00_VerifyLinksInLandingPage.verifyBrokenLinks()[pri:0, instance:com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage@2d6eabae] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchSessionException">
+            <message>
+              <![CDATA[Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DOSYSNET042', ip: '172.30.246.151', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchSessionException: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DOSYSNET042', ip: '172.30.246.151', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:125)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:294)
+at com.dreamorbit.faviana_b2cuk.testbase.TestBase.getScreenShot(TestBase.java:119)
+at com.dreamorbit.faviana_b2cuk.testbase.TestBase.getresult(TestBase.java:141)
+at com.dreamorbit.faviana_b2cuk.testbase.TestBase.afterMethod(TestBase.java:154)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:59)
+at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:458)
+at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:222)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:646)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchSessionException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage -->
+    </test> <!-- Product_Management -->
+    <test name="Wishlist" duration-ms="50697" started-at="2018-10-29T07:50:06Z" finished-at="2018-10-29T07:50:57Z">
+      <class name="com.dreamorbit.faviana_b2cuk.search.TC01_VerifySuccessfulSearch">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC01_VerifySuccessfulSearch@396f6598]" name="setUp" is-config="true" duration-ms="13282" started-at="2018-10-29T07:50:06Z" finished-at="2018-10-29T07:50:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC01_VerifySuccessfulSearch@396f6598]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-10-29T07:50:19Z" finished-at="2018-10-29T07:50:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.search.TC01_VerifySuccessfulSearch.verifySuccessfulSearch()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifySuccessfulSearch()[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC01_VerifySuccessfulSearch@396f6598]" name="verifySuccessfulSearch" duration-ms="5187" started-at="2018-10-29T07:50:19Z" finished-at="2018-10-29T07:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfulSearch -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC01_VerifySuccessfulSearch@396f6598]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-10-29T07:50:24Z" finished-at="2018-10-29T07:50:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySuccessfulSearch status=SUCCESS method=TC01_VerifySuccessfulSearch.verifySuccessfulSearch()[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC01_VerifySuccessfulSearch@396f6598] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC01_VerifySuccessfulSearch@396f6598]" name="tearDown" is-config="true" duration-ms="1200" started-at="2018-10-29T07:50:24Z" finished-at="2018-10-29T07:50:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.search.TC01_VerifySuccessfulSearch -->
+      <class name="com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch@394e1a0f]" name="setUp" is-config="true" duration-ms="13421" started-at="2018-10-29T07:50:26Z" finished-at="2018-10-29T07:50:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="verifyUnsuccessfulSearch()[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch@394e1a0f]" name="verifyUnsuccessfulSearch" duration-ms="16151" started-at="2018-10-29T07:50:39Z" finished-at="2018-10-29T07:50:55Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//p[contains(text(),'Sorry we could not find the dress you were looking1')]"}
+  (Session info: chrome=70.0.3538.77)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DOSYSNET042', ip: '172.30.246.151', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\bharath.k\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51939}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true}
+Session ID: 27de1e41c5d6e5ec388bc70b8e7019a5
+*** Element info: {Using=xpath, value=//p[contains(text(),'Sorry we could not find the dress you were looking1')]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[contains(text(),'Sorry we could not find the dress you were looking1')]"}
+  (Session info: chrome=70.0.3538.77)
+  (Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'DOSYSNET042', ip: '172.30.246.151', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.42.591088 (7b2b2dca23cca0..., userDataDir: C:\Users\bharath.k\AppData\...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:51939}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 70.0.3538.77, webStorageEnabled: true}
+Session ID: 27de1e41c5d6e5ec388bc70b8e7019a5
+*** Element info: {Using=xpath, value=//p[contains(text(),'Sorry we could not find the dress you were looking1')]}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:424)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy10.isDisplayed(Unknown Source)
+at com.dreamorbit.faviana_b2cuk.pages.ProductPage.searchResultNotAvailable(ProductPage.java:44)
+at com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch.verifyUnsuccessfulSearch(TC02_VerifyUnsuccessfulSearch.java:34)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUnsuccessfulSearch -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch@394e1a0f]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-29T07:50:39Z" finished-at="2018-10-29T07:50:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch.verifyUnsuccessfulSearch()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch@394e1a0f]" name="afterMethod" is-config="true" duration-ms="510" started-at="2018-10-29T07:50:55Z" finished-at="2018-10-29T07:50:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUnsuccessfulSearch status=FAILURE method=TC02_VerifyUnsuccessfulSearch.verifyUnsuccessfulSearch()[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch@394e1a0f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch@394e1a0f]" name="tearDown" is-config="true" duration-ms="940" started-at="2018-10-29T07:50:56Z" finished-at="2018-10-29T07:50:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch -->
+    </test> <!-- Wishlist -->
+    <test name="Search" duration-ms="20282" started-at="2018-10-29T07:50:57Z" finished-at="2018-10-29T07:51:17Z">
+      <class name="com.dreamorbit.faviana_b2cuk.wishlist.TC01_VerifyWishlistForGuest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.wishlist.TC01_VerifyWishlistForGuest@1786dec2]" name="setUp" is-config="true" duration-ms="14732" started-at="2018-10-29T07:50:57Z" finished-at="2018-10-29T07:51:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.wishlist.TC01_VerifyWishlistForGuest@1786dec2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-29T07:51:11Z" finished-at="2018-10-29T07:51:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.wishlist.TC01_VerifyWishlistForGuest.verifyWishlistForGuest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyWishlistForGuest()[pri:0, instance:com.dreamorbit.faviana_b2cuk.wishlist.TC01_VerifyWishlistForGuest@1786dec2]" name="verifyWishlistForGuest" duration-ms="4609" started-at="2018-10-29T07:51:11Z" finished-at="2018-10-29T07:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWishlistForGuest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.wishlist.TC01_VerifyWishlistForGuest@1786dec2]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-10-29T07:51:16Z" finished-at="2018-10-29T07:51:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyWishlistForGuest status=SUCCESS method=TC01_VerifyWishlistForGuest.verifyWishlistForGuest()[pri:0, instance:com.dreamorbit.faviana_b2cuk.wishlist.TC01_VerifyWishlistForGuest@1786dec2] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.wishlist.TC01_VerifyWishlistForGuest@1786dec2]" name="tearDown" is-config="true" duration-ms="939" started-at="2018-10-29T07:51:16Z" finished-at="2018-10-29T07:51:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.wishlist.TC01_VerifyWishlistForGuest -->
+    </test> <!-- Search -->
+    <test name="End_To_End_Flow" duration-ms="96012" started-at="2018-10-29T07:51:17Z" finished-at="2018-10-29T07:52:53Z">
+      <class name="com.dreamorbit.faviana_b2cuk.endtoendflow.TC01_VerifySuccessfulOrderForGuest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.endtoendflow.TC01_VerifySuccessfulOrderForGuest@2833cc44]" name="setUp" is-config="true" duration-ms="15518" started-at="2018-10-29T07:51:17Z" finished-at="2018-10-29T07:51:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.endtoendflow.TC01_VerifySuccessfulOrderForGuest@2833cc44]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-29T07:51:17Z" finished-at="2018-10-29T07:51:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.endtoendflow.TC01_VerifySuccessfulOrderForGuest.verifySuccessfulOrderForGuest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifySuccessfulOrderForGuest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dreamorbit.faviana_b2cuk.endtoendflow.TC01_VerifySuccessfulOrderForGuest@2833cc44]" name="verifySuccessfulOrderForGuest" duration-ms="79461" started-at="2018-10-29T07:51:32Z" data-provider="getCheckoutTestData" finished-at="2018-10-29T07:52:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TEST1001@TEST.COM]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[US]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FnameTest]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[LnameTest]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[TestCompany]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[TestCity]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[TestAddress1]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[TestAddress2]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[NEW YORK]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[10001.0]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[78678678]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[4111111111111111]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[2020]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessfulOrderForGuest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.endtoendflow.TC01_VerifySuccessfulOrderForGuest@2833cc44]" name="tearDown" is-config="true" duration-ms="952" started-at="2018-10-29T07:52:52Z" finished-at="2018-10-29T07:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.endtoendflow.TC01_VerifySuccessfulOrderForGuest@2833cc44]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-10-29T07:52:53Z" finished-at="2018-10-29T07:52:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySuccessfulOrderForGuest status=SUCCESS method=TC01_VerifySuccessfulOrderForGuest.verifySuccessfulOrderForGuest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dreamorbit.faviana_b2cuk.endtoendflow.TC01_VerifySuccessfulOrderForGuest@2833cc44] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.endtoendflow.TC01_VerifySuccessfulOrderForGuest -->
+    </test> <!-- End_To_End_Flow -->
+  </suite> <!-- Regression_Suite -->
+</testng-results>

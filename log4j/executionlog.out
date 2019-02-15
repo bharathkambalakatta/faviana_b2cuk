@@ -1,0 +1,313 @@
+2019-02-11 12:48:49 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 12:49:12 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 12:49:12 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:39 - verifyTheSubCategoriesPresentUnderEachMainCategory test execution started
+2019-02-11 12:49:12 INFO  LandingPage:419 - All the sub categories are present under PROM DRESSES - BY COLOR
+2019-02-11 12:49:34 INFO  LandingPage:516 - User has clicked on 'Black Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 12:49:34 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:48 - 'Black Prom Dresses' page is displayed
+2019-02-11 12:49:40 INFO  LandingPage:525 - User has clicked on 'Blue Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 12:49:41 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:54 - 'Blue Prom Dresses' page is displayed
+2019-02-11 12:49:46 INFO  LandingPage:534 - User has clicked on 'Burgundy Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 12:49:47 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:60 - 'Burgundy Prom Dresses' page is displayed
+2019-02-11 12:49:55 INFO  LandingPage:544 - User has clicked on 'Gold Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 12:49:55 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:66 - 'Gold Prom Dresses' page is displayed
+2019-02-11 12:50:01 INFO  LandingPage:553 - User has clicked on 'Green Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 12:50:01 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:72 - 'Green Prom Dresses' page is displayed
+2019-02-11 12:50:15 INFO  LandingPage:562 - User has clicked on 'Pink Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 12:50:15 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:78 - 'Pink Prom Dresses' page is displayed
+2019-02-11 12:50:21 INFO  LandingPage:571 - User has clicked on 'Purple Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 12:50:21 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:84 - 'Purple Prom Dresses' page is displayed
+2019-02-11 12:50:27 INFO  LandingPage:581 - User has clicked on 'Red Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 12:50:28 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:90 - 'Red Prom Dresses' page is displayed
+2019-02-11 12:50:47 INFO  LandingPage:590 - User has clicked on 'White Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 12:50:47 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:96 - 'Black Prom Dresses' page is displayed
+2019-02-11 12:50:52 INFO  LandingPage:599 - User has clicked on 'View All' present under PROM DRESSES - BY COLOR
+2019-02-11 12:50:53 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:102 - 'View All' page for PROM DRESSES - BY COLOR is displayed
+2019-02-11 12:50:53 INFO  LandingPage:431 - All the sub categories are present under PROM DRESSES - BY STYLE
+2019-02-11 12:51:12 INFO  LandingPage:611 - User has clicked on 'Long Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 12:51:12 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:111 - 'Long Prom Dresses' page is displayed
+2019-02-11 12:51:14 INFO  TestBase:162 - Browser has been closed
+2019-02-11 12:59:41 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 12:59:53 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 12:59:53 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:41 - verifyTheMainHeadersPresentInUKSite test execution started
+2019-02-11 12:59:53 INFO  LandingPage:352 - All the main categories are present
+2019-02-11 13:00:00 INFO  LandingPage:410 - User has clicked on 'BEST SELLERS' category
+2019-02-11 13:00:00 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:46 - 'BEST SELLERS' page is displayed
+2019-02-11 13:00:06 INFO  LandingPage:417 - User has clicked on 'PROM DRESSES' category
+2019-02-11 13:00:06 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:50 - 'PROM DRESSES' page is displayed
+2019-02-11 13:00:12 INFO  LandingPage:424 - User has clicked on 'FORMAL DRESSES' category
+2019-02-11 13:00:13 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:55 - 'FORMAL DRESSES' page is displayed
+2019-02-11 13:00:18 INFO  LandingPage:431 - User has clicked on 'DRESSES BY EVENT' category
+2019-02-11 13:00:19 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:60 - 'DRESSES BY EVENT' page is displayed
+2019-02-11 13:00:25 INFO  LandingPage:438 - User has clicked on 'SALE' category
+2019-02-11 13:00:25 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:63 - 'SALE' page is displayed
+2019-02-11 13:00:28 INFO  LandingPage:446 - User has clicked on 'GLAM & GOWNS' category
+2019-02-11 13:00:29 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:68 - verifyTheMainHeadersPresentInUKSite test executed successfully
+2019-02-11 13:00:31 INFO  TestBase:162 - Browser has been closed
+2019-02-11 13:04:46 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 13:04:57 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 13:04:57 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:41 - verifyTheMainHeadersPresentInUKSite test execution started
+2019-02-11 13:04:58 INFO  LandingPage:353 - All the main categories are present
+2019-02-11 13:05:05 INFO  LandingPage:411 - User has clicked on 'BEST SELLERS' category
+2019-02-11 13:05:05 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:46 - 'BEST SELLERS' page is displayed
+2019-02-11 13:05:10 INFO  LandingPage:418 - User has clicked on 'PROM DRESSES' category
+2019-02-11 13:05:11 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:50 - 'PROM DRESSES' page is displayed
+2019-02-11 13:05:16 INFO  LandingPage:425 - User has clicked on 'FORMAL DRESSES' category
+2019-02-11 13:05:17 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:55 - 'FORMAL DRESSES' page is displayed
+2019-02-11 13:05:22 INFO  LandingPage:432 - User has clicked on 'DRESSES BY EVENT' category
+2019-02-11 13:05:23 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:60 - 'DRESSES BY EVENT' page is displayed
+2019-02-11 13:05:28 INFO  LandingPage:439 - User has clicked on 'SALE' category
+2019-02-11 13:05:29 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:63 - 'SALE' page is displayed
+2019-02-11 13:05:32 INFO  LandingPage:447 - User has clicked on 'GLAM & GOWNS' category
+2019-02-11 13:05:33 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:68 - verifyTheMainHeadersPresentInUKSite test executed successfully
+2019-02-11 13:05:34 INFO  TestBase:162 - Browser has been closed
+2019-02-11 13:27:02 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 13:27:29 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 13:27:29 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:41 - verifyTheMainHeadersPresentInUKSite test execution started
+2019-02-11 13:27:29 INFO  LandingPage:349 - All the main categories are present
+2019-02-11 13:27:40 INFO  LandingPage:407 - User has clicked on 'BEST SELLERS' category
+2019-02-11 13:27:40 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:46 - 'BEST SELLERS' page is displayed
+2019-02-11 13:27:47 INFO  LandingPage:414 - User has clicked on 'PROM DRESSES' category
+2019-02-11 13:27:47 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:50 - 'PROM DRESSES' page is displayed
+2019-02-11 13:27:53 INFO  LandingPage:421 - User has clicked on 'FORMAL DRESSES' category
+2019-02-11 13:27:53 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:55 - 'FORMAL DRESSES' page is displayed
+2019-02-11 13:27:59 INFO  LandingPage:428 - User has clicked on 'DRESSES BY EVENT' category
+2019-02-11 13:27:59 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:60 - 'DRESSES BY EVENT' page is displayed
+2019-02-11 13:28:05 INFO  LandingPage:435 - User has clicked on 'SALE' category
+2019-02-11 13:28:05 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:63 - 'SALE' page is displayed
+2019-02-11 13:28:08 INFO  LandingPage:443 - User has clicked on 'GLAM & GOWNS' category
+2019-02-11 13:28:13 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:68 - verifyTheMainHeadersPresentInUKSite test executed successfully
+2019-02-11 13:28:14 INFO  TestBase:162 - Browser has been closed
+2019-02-11 13:39:13 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 13:39:25 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 13:39:25 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:41 - verifyTheMainHeadersPresentInUKSite test execution started
+2019-02-11 13:39:25 INFO  LandingPage:227 - All the main categories are present
+2019-02-11 13:39:32 INFO  LandingPage:285 - User has clicked on 'BEST SELLERS' category
+2019-02-11 13:39:32 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:47 - 'BEST SELLERS' page is displayed
+2019-02-11 13:39:38 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 13:39:38 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:52 - 'PROM DRESSES' page is displayed
+2019-02-11 13:39:44 INFO  LandingPage:299 - User has clicked on 'FORMAL DRESSES' category
+2019-02-11 13:39:44 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:58 - 'FORMAL DRESSES' page is displayed
+2019-02-11 13:39:49 INFO  LandingPage:307 - User has clicked on 'DRESSES BY EVENT' category
+2019-02-11 13:39:50 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:64 - 'DRESSES BY EVENT' page is displayed
+2019-02-11 13:39:56 INFO  LandingPage:315 - User has clicked on 'SALE' category
+2019-02-11 13:39:56 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:68 - 'SALE' page is displayed
+2019-02-11 13:39:59 INFO  LandingPage:323 - User has clicked on 'GLAM & GOWNS' category
+2019-02-11 13:40:00 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:75 - verifyTheMainHeadersPresentInUKSite test executed successfully
+2019-02-11 13:40:02 INFO  TestBase:162 - Browser has been closed
+2019-02-11 13:40:12 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 13:40:25 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 13:40:25 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:42 - verifyTheSubCategoriesPresentUnderEachMainCategory test execution started
+2019-02-11 13:40:25 INFO  LandingPage:241 - All the sub categories are present under PROM DRESSES - BY COLOR
+2019-02-11 13:40:37 INFO  LandingPage:340 - User has clicked on 'Black Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 13:40:37 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:51 - 'Black Prom Dresses' page is displayed
+2019-02-11 13:40:43 INFO  LandingPage:350 - User has clicked on 'Blue Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 13:40:43 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:57 - 'Blue Prom Dresses' page is displayed
+2019-02-11 13:40:48 INFO  LandingPage:360 - User has clicked on 'Burgundy Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 13:40:49 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:63 - 'Burgundy Prom Dresses' page is displayed
+2019-02-11 13:40:56 INFO  LandingPage:370 - User has clicked on 'Gold Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 13:40:57 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:69 - 'Gold Prom Dresses' page is displayed
+2019-02-11 13:41:02 INFO  LandingPage:380 - User has clicked on 'Green Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 13:41:02 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:75 - 'Green Prom Dresses' page is displayed
+2019-02-11 13:41:16 INFO  LandingPage:390 - User has clicked on 'Pink Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 13:41:16 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:81 - 'Pink Prom Dresses' page is displayed
+2019-02-11 13:41:22 INFO  LandingPage:400 - User has clicked on 'Purple Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 13:41:23 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:87 - 'Purple Prom Dresses' page is displayed
+2019-02-11 13:41:28 INFO  LandingPage:410 - User has clicked on 'Red Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 13:41:28 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:93 - 'Red Prom Dresses' page is displayed
+2019-02-11 13:41:46 INFO  LandingPage:420 - User has clicked on 'White Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 13:41:47 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:99 - 'Black Prom Dresses' page is displayed
+2019-02-11 13:41:52 INFO  LandingPage:430 - User has clicked on 'View All' present under PROM DRESSES - BY COLOR
+2019-02-11 13:41:53 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:105 - 'View All' page for PROM DRESSES - BY COLOR is displayed
+2019-02-11 13:41:53 INFO  LandingPage:253 - All the sub categories are present under PROM DRESSES - BY STYLE
+2019-02-11 13:42:06 INFO  LandingPage:442 - User has clicked on 'Long Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 13:42:06 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:114 - 'Long Prom Dresses' page is displayed
+2019-02-11 13:42:10 INFO  LandingPage:452 - User has clicked on 'Mermaid Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 13:42:10 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:120 - 'Mermaid Prom Dresses' page is displayed
+2019-02-11 13:42:15 INFO  LandingPage:462 - User has clicked on 'Off Shoulder Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 13:42:15 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:126 - 'Off Shoulder Prom Dresses' page is displayed
+2019-02-11 13:42:20 INFO  LandingPage:472 - User has clicked on 'Plus Size Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 13:42:20 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:132 - 'Plus Size Prom Dresses' page is displayed
+2019-02-11 13:42:23 INFO  LandingPage:482 - User has clicked on 'Prom Dresses with Choker' present under PROM DRESSES - BY STYLE
+2019-02-11 13:42:24 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:138 - 'Prom Dresses With Choker' page is displayed
+2019-02-11 13:42:27 INFO  LandingPage:492 - User has clicked on 'Short Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 13:42:27 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:144 - 'Short Prom Dresses' page is displayed
+2019-02-11 13:42:31 INFO  LandingPage:502 - User has clicked on 'Two-Piece Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 13:42:31 INFO  TC02_VerifyTheSubCategoriesPresentUnderEachMainCategory:150 - 'Two-Piece Prom Dresses' page is displayed
+2019-02-11 13:42:33 INFO  TestBase:162 - Browser has been closed
+2019-02-11 14:58:05 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 14:58:16 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 14:58:17 INFO  TC03_VerifyProductsDisplayInProductListPage:33 - verifyProductsDisplayInProductListPage test execution started
+2019-02-11 14:58:26 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 14:58:26 INFO  ProductPage:258 - Products are displayed in Product List page
+2019-02-11 14:58:26 INFO  TC03_VerifyProductsDisplayInProductListPage:38 - verifyProductsDisplayInProductListPage test executed successfully
+2019-02-11 14:58:27 INFO  TestBase:162 - Browser has been closed
+2019-02-11 14:58:40 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 14:58:53 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 14:58:53 INFO  TC03_VerifyProductsDisplayInProductListPage:33 - verifyProductsDisplayInProductListPage test execution started
+2019-02-11 14:59:01 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 14:59:02 INFO  ProductPage:258 - Products are displayed in Product List page
+2019-02-11 14:59:02 INFO  TC03_VerifyProductsDisplayInProductListPage:38 - verifyProductsDisplayInProductListPage test executed successfully
+2019-02-11 14:59:03 INFO  TestBase:162 - Browser has been closed
+2019-02-11 14:59:12 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 14:59:24 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 14:59:24 INFO  TC03_VerifyProductsDisplayInProductListPage:33 - verifyProductsDisplayInProductListPage test execution started
+2019-02-11 14:59:34 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 14:59:35 INFO  ProductPage:258 - Products are displayed in Product List page
+2019-02-11 14:59:35 INFO  TC03_VerifyProductsDisplayInProductListPage:38 - verifyProductsDisplayInProductListPage test executed successfully
+2019-02-11 14:59:36 INFO  TestBase:162 - Browser has been closed
+2019-02-11 15:10:09 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 15:10:25 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 15:10:25 INFO  TC03_VerifyProductsDisplayInProductListPage:33 - verifyProductsDisplayInProductListPage test execution started
+2019-02-11 15:10:34 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 15:10:35 INFO  ProductPage:259 - Products are displayed in Product List page
+2019-02-11 15:10:35 INFO  TC03_VerifyProductsDisplayInProductListPage:39 - verifyProductsDisplayInProductListPage test executed successfully
+2019-02-11 15:13:30 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 15:13:42 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 15:13:42 INFO  TC03_VerifyProductsDisplayInProductListPage:33 - verifyProductsDisplayInProductListPage test execution started
+2019-02-11 15:13:50 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 15:13:50 INFO  ProductPage:259 - Products are displayed in Product List page
+2019-02-11 15:13:52 INFO  ProductPage:265 - Products are displayed in 2nd page of Product List page
+2019-02-11 15:13:52 INFO  TC03_VerifyProductsDisplayInProductListPage:40 - verifyProductsDisplayInProductListPage test executed successfully
+2019-02-11 15:16:46 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 15:16:57 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 15:16:58 INFO  TC03_VerifyProductsDisplayInProductListPage:33 - verifyProductsDisplayInProductListPage test execution started
+2019-02-11 15:17:06 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 15:17:06 INFO  ProductPage:262 - Products are displayed in Product List page
+2019-02-11 15:17:14 INFO  ProductPage:268 - Products are displayed in 2nd page of Product List page
+2019-02-11 15:17:14 INFO  TC03_VerifyProductsDisplayInProductListPage:40 - verifyProductsDisplayInProductListPage test executed successfully
+2019-02-11 15:21:29 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 15:21:40 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 15:21:40 INFO  TC03_VerifyProductsDisplayInProductListPage:33 - verifyProductsDisplayInProductListPage test execution started
+2019-02-11 15:21:48 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 15:21:48 INFO  ProductPage:265 - Products are displayed in Product List page
+2019-02-11 15:21:48 INFO  ProductPage:277 - User has scrolled down to end of the page
+2019-02-11 15:21:55 INFO  ProductPage:279 - 'No more dresses to show.' text is displayed at the end of the page
+2019-02-11 15:21:55 INFO  ProductPage:281 - Description is displayed at the end of the page
+2019-02-11 15:21:55 INFO  ProductPage:271 - Products are displayed in 2nd page of Product List page
+2019-02-11 15:21:55 INFO  TC03_VerifyProductsDisplayInProductListPage:38 - verifyProductsDisplayInProductListPage test executed successfully
+2019-02-11 15:28:01 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 15:28:14 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 15:28:14 INFO  TC03_VerifyProductsDisplayInProductListPage:33 - verifyProductsDisplayInProductListPage test execution started
+2019-02-11 15:28:22 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 15:28:22 INFO  ProductPage:265 - Products are displayed in Product List page
+2019-02-11 15:28:23 INFO  ProductPage:277 - User has scrolled down to end of the page
+2019-02-11 15:28:24 INFO  ProductPage:271 - Products are displayed in 2nd page of Product List page
+2019-02-11 15:28:29 INFO  ProductPage:282 - 'No more dresses to show.' text is displayed at the end of the page
+2019-02-11 15:28:29 INFO  ProductPage:284 - Description is displayed at the end of the page
+2019-02-11 15:28:29 INFO  TC03_VerifyProductsDisplayInProductListPage:39 - verifyProductsDisplayInProductListPage test executed successfully
+2019-02-11 15:28:30 INFO  TestBase:162 - Browser has been closed
+2019-02-11 15:41:04 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 15:41:16 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 15:41:16 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:36 - verifyTheSubCategoriesPresentUnderPromDressesByColor test execution started
+2019-02-11 15:41:16 INFO  LandingPage:241 - All the sub categories are present under PROM DRESSES - BY COLOR
+2019-02-11 15:41:28 INFO  LandingPage:340 - User has clicked on 'Black Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 15:41:28 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:44 - 'Black Prom Dresses' page is displayed
+2019-02-11 15:41:33 INFO  LandingPage:350 - User has clicked on 'Blue Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 15:41:34 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:50 - 'Blue Prom Dresses' page is displayed
+2019-02-11 15:41:40 INFO  LandingPage:360 - User has clicked on 'Burgundy Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 15:41:40 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:56 - 'Burgundy Prom Dresses' page is displayed
+2019-02-11 15:41:54 INFO  LandingPage:370 - User has clicked on 'Gold Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 15:41:54 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:62 - 'Gold Prom Dresses' page is displayed
+2019-02-11 15:42:00 INFO  LandingPage:380 - User has clicked on 'Green Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 15:42:00 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:68 - 'Green Prom Dresses' page is displayed
+2019-02-11 15:42:15 INFO  LandingPage:390 - User has clicked on 'Pink Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 15:42:16 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:74 - 'Pink Prom Dresses' page is displayed
+2019-02-11 15:42:21 INFO  LandingPage:400 - User has clicked on 'Purple Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 15:42:21 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:80 - 'Purple Prom Dresses' page is displayed
+2019-02-11 15:42:26 INFO  LandingPage:410 - User has clicked on 'Red Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 15:42:27 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:86 - 'Red Prom Dresses' page is displayed
+2019-02-11 15:42:45 INFO  LandingPage:420 - User has clicked on 'White Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 15:42:46 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:92 - 'Black Prom Dresses' page is displayed
+2019-02-11 15:42:51 INFO  LandingPage:430 - User has clicked on 'View All' present under PROM DRESSES - BY COLOR
+2019-02-11 15:42:52 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:98 - 'View All' page for PROM DRESSES - BY COLOR is displayed
+2019-02-11 15:42:52 INFO  TC02_01_VerifyTheSubCategoriesPresentUnderPromDressesByColor:100 - verifyTheSubCategoriesPresentUnderPromDressesByColor test executed successfully
+2019-02-11 15:42:53 INFO  TestBase:162 - Browser has been closed
+2019-02-11 15:43:21 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 15:43:41 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 15:43:41 INFO  TC02_04_VerifyTheSubCategoriesPresentUnderDressesByEventWeddingDresses:36 - verifyTheSubCategoriesPresentUnderEachMainCategory test execution started
+2019-02-11 15:43:41 INFO  LandingPage:279 - All the sub categories are present under DRESSES BY EVENT - WEDDING DRESSES
+2019-02-11 15:44:02 INFO  LandingPage:616 - User has clicked on 'Bachelorette Party Dresses' present under DRESSES BY EVENT - WEDDING DRESSES
+2019-02-11 15:44:14 INFO  TestBase:162 - Browser has been closed
+2019-02-11 15:44:41 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 15:44:53 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 15:44:53 INFO  TC02_03_VerifyTheSubCategoriesPresentUnderDressesByEventByEvent:36 - verifyTheSubCategoriesPresentUnderDressesByEventByEvent test execution started
+2019-02-11 15:44:54 INFO  LandingPage:266 - All the sub categories are present under DRESSES BY EVENT - BY STYLE
+2019-02-11 15:45:04 INFO  LandingPage:524 - User has clicked on 'Cocktail Dresses' present under DRESSES BY EVENT - BY EVENT
+2019-02-11 15:45:17 INFO  TestBase:162 - Browser has been closed
+2019-02-11 15:45:27 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 15:45:38 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 15:45:38 INFO  TC02_02_VerifyTheSubCategoriesPresentUnderPromDressesByStyle:36 - verifyTheSubCategoriesPresentUnderPromDressesByStyle test execution started
+2019-02-11 15:45:38 INFO  LandingPage:253 - All the sub categories are present under PROM DRESSES - BY STYLE
+2019-02-11 15:45:51 INFO  LandingPage:442 - User has clicked on 'Long Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 15:45:51 INFO  TC02_02_VerifyTheSubCategoriesPresentUnderPromDressesByStyle:44 - 'Long Prom Dresses' page is displayed
+2019-02-11 15:45:54 INFO  LandingPage:452 - User has clicked on 'Mermaid Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 15:45:54 INFO  TC02_02_VerifyTheSubCategoriesPresentUnderPromDressesByStyle:50 - 'Mermaid Prom Dresses' page is displayed
+2019-02-11 15:45:58 INFO  LandingPage:462 - User has clicked on 'Off Shoulder Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 15:45:58 INFO  TC02_02_VerifyTheSubCategoriesPresentUnderPromDressesByStyle:56 - 'Off Shoulder Prom Dresses' page is displayed
+2019-02-11 15:46:02 INFO  LandingPage:472 - User has clicked on 'Plus Size Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 15:46:02 INFO  TC02_02_VerifyTheSubCategoriesPresentUnderPromDressesByStyle:62 - 'Plus Size Prom Dresses' page is displayed
+2019-02-11 15:46:05 INFO  LandingPage:482 - User has clicked on 'Prom Dresses with Choker' present under PROM DRESSES - BY STYLE
+2019-02-11 15:46:05 INFO  TC02_02_VerifyTheSubCategoriesPresentUnderPromDressesByStyle:68 - 'Prom Dresses With Choker' page is displayed
+2019-02-11 15:46:08 INFO  LandingPage:492 - User has clicked on 'Short Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 15:46:08 INFO  TC02_02_VerifyTheSubCategoriesPresentUnderPromDressesByStyle:74 - 'Short Prom Dresses' page is displayed
+2019-02-11 15:46:12 INFO  LandingPage:502 - User has clicked on 'Two-Piece Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 15:46:12 INFO  TC02_02_VerifyTheSubCategoriesPresentUnderPromDressesByStyle:80 - 'Two-Piece Prom Dresses' page is displayed
+2019-02-11 15:46:14 INFO  TestBase:162 - Browser has been closed
+2019-02-11 16:06:04 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 16:06:44 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 16:06:44 INFO  TC04_VerifyTheFiltersInProductListPage:33 - verifyTheFiltersInProductListPage test execution started
+2019-02-11 16:07:05 INFO  LandingPage:340 - User has clicked on 'Black Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 16:07:06 INFO  ProductPage:307 - STYLE, SiZE, COLLECTION and PRICE filters are displayed in PROM DRESSES - BY COLOR page
+2019-02-11 16:07:06 INFO  TC04_VerifyTheFiltersInProductListPage:37 - verifyTheFiltersInProductListPage test executed successfully
+2019-02-11 16:07:07 INFO  TestBase:162 - Browser has been closed
+2019-02-11 17:30:30 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 17:31:05 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 17:31:05 INFO  TC04_VerifyTheFiltersInProductListPage:33 - verifyTheFiltersInProductListPage test execution started
+2019-02-11 17:31:23 INFO  LandingPage:340 - User has clicked on 'Black Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 17:31:23 INFO  ProductPage:307 - STYLE, SiZE, COLLECTION and PRICE filters are displayed in PROM DRESSES - BY COLOR page
+2019-02-11 17:31:34 INFO  LandingPage:442 - User has clicked on 'Long Prom Dresses' present under PROM DRESSES - BY STYLE
+2019-02-11 17:31:46 INFO  TestBase:162 - Browser has been closed
+2019-02-11 17:33:28 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 17:33:40 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 17:33:40 INFO  TC04_VerifyTheFiltersInProductListPage:33 - verifyTheFiltersInProductListPage test execution started
+2019-02-11 17:33:53 INFO  LandingPage:340 - User has clicked on 'Black Prom Dresses' present under PROM DRESSES - BY COLOR
+2019-02-11 17:33:53 INFO  ProductPage:307 - STYLE, SIZE, COLLECTION and PRICE filters are displayed in PROM DRESSES - BY COLOR page
+2019-02-11 17:33:58 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 17:33:59 INFO  ProductPage:324 - STYLE, COLOR, SiZE, COLLECTION and PRICE filters are displayed in PROM DRESSES page
+2019-02-11 17:33:59 INFO  TC04_VerifyTheFiltersInProductListPage:40 - verifyTheFiltersInProductListPage test executed successfully
+2019-02-11 17:34:00 INFO  TestBase:162 - Browser has been closed
+2019-02-11 18:05:13 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 18:05:24 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 18:05:24 INFO  TC04_VerifyTheFiltersInProductListPage:33 - verifyTheFiltersInProductListPage test execution started
+2019-02-11 18:05:32 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 18:05:32 INFO  ProductPage:336 - STYLE, COLOR, SiZE, COLLECTION and PRICE filters are displayed in PROM DRESSES page
+2019-02-11 18:05:37 INFO  ProductPage:342 - User has selected the 1st option from STYLE filter
+2019-02-11 18:05:37 INFO  TC04_VerifyTheFiltersInProductListPage:41 - verifyTheFiltersInProductListPage test executed successfully
+2019-02-11 18:24:37 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 18:25:02 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 18:25:02 INFO  TC04_VerifyTheFiltersInProductListPage:33 - verifyTheFiltersInProductListPage test execution started
+2019-02-11 18:25:12 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 18:25:13 INFO  ProductPage:339 - STYLE, COLOR, SiZE, COLLECTION and PRICE filters are displayed in PROM DRESSES page
+2019-02-11 18:25:18 INFO  ProductPage:345 - User has selected the 1st option from STYLE filter
+2019-02-11 18:25:19 INFO  ProductPage:347 - STYLE filter has been applied
+2019-02-11 18:25:24 INFO  ProductPage:349 - STYLE filter has been deselected
+2019-02-11 18:25:24 INFO  TC04_VerifyTheFiltersInProductListPage:41 - verifyTheFiltersInProductListPage test executed successfully
+2019-02-11 18:30:42 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 18:30:55 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 18:30:55 INFO  TC04_VerifyTheFiltersInProductListPage:33 - verifyTheFiltersInProductListPage test execution started
+2019-02-11 18:31:02 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 18:31:03 INFO  ProductPage:339 - STYLE, COLOR, SiZE, COLLECTION and PRICE filters are displayed in PROM DRESSES page
+2019-02-11 18:31:08 INFO  ProductPage:345 - User has selected the 1st option from STYLE filter
+2019-02-11 18:31:08 INFO  ProductPage:347 - STYLE filter has been applied
+2019-02-11 18:31:08 INFO  ProductPage:349 - Products are displayed when filter is applied on STYLE
+2019-02-11 18:31:14 INFO  ProductPage:351 - STYLE filter has been deselected
+2019-02-11 18:31:14 INFO  TC04_VerifyTheFiltersInProductListPage:41 - verifyTheFiltersInProductListPage test executed successfully
+2019-02-11 18:33:18 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-11 18:34:03 INFO  TestBase:105 - Application URL has been entered
+2019-02-11 18:34:03 INFO  TC04_VerifyTheFiltersInProductListPage:33 - verifyTheFiltersInProductListPage test execution started
+2019-02-11 18:34:17 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-11 18:34:17 INFO  ProductPage:339 - STYLE, COLOR, SiZE, COLLECTION and PRICE filters are displayed in PROM DRESSES page
+2019-02-11 18:34:22 INFO  ProductPage:345 - User has selected the 1st option from STYLE filter
+2019-02-11 18:34:23 INFO  ProductPage:347 - STYLE filter has been applied
+2019-02-11 18:34:23 INFO  ProductPage:349 - Products are displayed when filter is applied on STYLE
+2019-02-11 18:34:28 INFO  ProductPage:351 - STYLE filter has been deselected

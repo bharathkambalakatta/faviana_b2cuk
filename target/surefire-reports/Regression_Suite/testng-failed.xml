@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Regression_Suite]">
+  <test thread-count="5" verbose="0" name="Customer_Management(failed)">
+    <classes>
+      <class name="com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin">
+        <methods>
+          <include name="verifyRetailerLogin"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin -->
+    </classes>
+  </test> <!-- Customer_Management(failed) -->
+  <test thread-count="5" verbose="0" name="Product_Management(failed)">
+    <classes>
+      <class name="com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="tearDown"/>
+          <include name="verifyBrokenLinks"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage -->
+    </classes>
+  </test> <!-- Product_Management(failed) -->
+  <test thread-count="5" verbose="0" name="Wishlist(failed)">
+    <classes>
+      <class name="com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="verifyUnsuccessfulSearch"/>
+        </methods>
+      </class> <!-- com.dreamorbit.faviana_b2cuk.search.TC02_VerifyUnsuccessfulSearch -->
+    </classes>
+  </test> <!-- Wishlist(failed) -->
+</suite> <!-- Failed suite [Regression_Suite] -->
