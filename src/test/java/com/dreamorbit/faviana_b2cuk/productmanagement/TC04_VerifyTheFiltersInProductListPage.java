@@ -42,6 +42,7 @@ public class TC04_VerifyTheFiltersInProductListPage extends TestBase {
 		product.selectingOptionsFromCollectionFilter();
 		log.info("verifyTheFiltersInProductListPage test executed successfully");
 
+		
 	}
 
 	@AfterClass
