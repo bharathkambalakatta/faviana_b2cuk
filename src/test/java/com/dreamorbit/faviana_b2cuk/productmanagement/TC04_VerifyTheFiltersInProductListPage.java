@@ -11,7 +11,8 @@ import com.dreamorbit.faviana_b2cuk.testbase.TestBase;
 
 public class TC04_VerifyTheFiltersInProductListPage extends TestBase {
 
-	public static final Logger log = Logger.getLogger(TC04_VerifyTheFiltersInProductListPage.class.getName());
+	public static final Logger log = Logger
+			.getLogger(TC04_VerifyTheFiltersInProductListPage.class.getName());
 
 	LandingPage landing;
 	ProductPage product;
@@ -42,7 +43,6 @@ public class TC04_VerifyTheFiltersInProductListPage extends TestBase {
 		product.selectingOptionsFromCollectionFilter();
 		log.info("verifyTheFiltersInProductListPage test executed successfully");
 
-		log.info("test");
 	}
 
 	@AfterClass
