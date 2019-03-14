@@ -78,9 +78,10 @@ public class LoginPage extends TestBase {
 		log.info("User has clicked on 'Don’t have an account? Click Here to register'");
 	}
 
-	public String clickingOnClickHereToSignInToOurNewRetailerWebsite() {
+	public String clickingOnClickHereToSignInToOurNewRetailerWebsite() throws InterruptedException {
 		clickHereToSignInToOurNewRetailerWebsiteLink.click();
 		log.info("User has clicked on 'Click Here to sign in to our new retailer website'");
+		Thread.sleep(5000);
 		Set<String> windowHandles = driver.getWindowHandles();
 		Iterator<String> itr = windowHandles.iterator();
 		String parentWindow = itr.next();
@@ -91,9 +92,10 @@ public class LoginPage extends TestBase {
 		return title;
 	}
 	
-	public void clickingOnConnectUsingYourFaceBookButton() {
+	public void clickingOnConnectUsingYourFaceBookButton() throws InterruptedException {
 		connectUsingYourFaceBookButton.click();
 		log.info("User has clicked on 'Connect using your: FACEBOOK'");
+		Thread.sleep(5000);
 		Set<String> windowHandles = driver.getWindowHandles();
 		Iterator<String> itr = windowHandles.iterator();
 		String parentWindow = itr.next();

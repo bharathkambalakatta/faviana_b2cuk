@@ -35,7 +35,7 @@ public class TC02_VerifyConnectUsingSocialMedia extends TestBase {
 	}
 
 	@Test
-	public void verifyConnectUsingSocialMedia() {
+	public void verifyConnectUsingSocialMedia() throws InterruptedException {
 		landing.clickingOnLoginMenuPresentAtRightTop();
 		login.clickingOnConnectUsingYourFaceBookButton();
 		log.info("A new window has been opened where user can register using FACEBOOK");

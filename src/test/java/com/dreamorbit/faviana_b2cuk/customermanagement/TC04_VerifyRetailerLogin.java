@@ -36,7 +36,7 @@ public class TC04_VerifyRetailerLogin extends TestBase {
 	}
 
 	@Test
-	public void verifyRetailerLogin() {
+	public void verifyRetailerLogin() throws InterruptedException {
 		landing.clickingOnLoginMenuPresentAtRightTop();
 		login.clickingOnClickHereToSignInToOurNewRetailerWebsite();
 		String actualTitle = login

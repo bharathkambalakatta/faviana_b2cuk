@@ -1,0 +1,51 @@
+2019-02-18 15:14:49 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-18 15:15:04 INFO  TestBase:105 - Application URL has been entered
+2019-02-18 15:15:04 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:41 - verifyTheMainHeadersPresentInUKSite test execution started
+2019-02-18 15:15:04 INFO  LandingPage:227 - All the main categories are present
+2019-02-18 15:15:11 INFO  LandingPage:285 - User has clicked on 'BEST SELLERS' category
+2019-02-18 15:15:11 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:47 - 'BEST SELLERS' page is displayed
+2019-02-18 15:15:16 INFO  LandingPage:292 - User has clicked on 'PROM DRESSES' category
+2019-02-18 15:15:16 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:52 - 'PROM DRESSES' page is displayed
+2019-02-18 15:15:22 INFO  LandingPage:299 - User has clicked on 'FORMAL DRESSES' category
+2019-02-18 15:15:22 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:58 - 'FORMAL DRESSES' page is displayed
+2019-02-18 15:15:27 INFO  LandingPage:307 - User has clicked on 'DRESSES BY EVENT' category
+2019-02-18 15:15:28 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:64 - 'DRESSES BY EVENT' page is displayed
+2019-02-18 15:15:33 INFO  LandingPage:315 - User has clicked on 'SALE' category
+2019-02-18 15:15:33 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:68 - 'SALE' page is displayed
+2019-02-18 15:15:36 INFO  LandingPage:323 - User has clicked on 'GLAM & GOWNS' category
+2019-02-18 15:15:37 INFO  TC01_VerifyTheMainHeadersPresentInUKSite:75 - verifyTheMainHeadersPresentInUKSite test executed successfully
+2019-02-18 15:15:39 INFO  TestBase:162 - Browser has been closed
+2019-02-18 15:22:07 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-18 15:22:20 INFO  TestBase:105 - Application URL has been entered
+2019-02-18 15:22:28 INFO  LandingPage:705 - User has clicked on 'LOGIN' menu present in Home|Landing Page
+2019-02-18 15:22:33 INFO  LoginPage:78 - User has clicked on 'Don’t have an account? Click Here to register'
+2019-02-18 15:22:33 INFO  CreateAnAccountPage:53 - User has entered 'First Name'
+2019-02-18 15:22:33 INFO  CreateAnAccountPage:55 - User has entered 'Last Name'
+2019-02-18 15:22:34 INFO  CreateAnAccountPage:59 - User has entered 'Email'
+2019-02-18 15:22:34 INFO  CreateAnAccountPage:61 - User has entered 'Password'
+2019-02-18 15:22:34 INFO  CreateAnAccountPage:63 - User has entered Password again in 'Confirm Password'
+2019-02-18 15:22:34 INFO  CreateAnAccountPage:65 - User has unselected 'Sign Up for Newsletter'
+2019-02-18 15:22:40 INFO  CreateAnAccountPage:67 - User has clicked on 'CREATE AN ACCOUNT' button
+2019-02-18 15:22:40 INFO  TC01_VerifyNewCustomerRegistration:61 - New user has been successfully registered in the application
+2019-02-18 15:22:41 INFO  TestBase:162 - Browser has been closed
+2019-02-18 15:22:44 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-18 15:22:55 INFO  TestBase:105 - Application URL has been entered
+2019-02-18 15:23:02 INFO  LandingPage:705 - User has clicked on 'LOGIN' menu present in Home|Landing Page
+2019-02-18 15:23:02 INFO  LoginPage:97 - User has clicked on 'Connect using your: FACEBOOK'
+2019-02-18 15:23:08 INFO  TC02_VerifyConnectUsingSocialMedia:41 - A new window has been opened where user can register using FACEBOOK
+2019-02-18 15:23:09 INFO  TestBase:162 - Browser has been closed
+2019-02-18 15:23:12 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-18 15:23:34 INFO  TestBase:105 - Application URL has been entered
+2019-02-18 15:23:41 INFO  LandingPage:705 - User has clicked on 'LOGIN' menu present in Home|Landing Page
+2019-02-18 15:23:42 INFO  LoginPage:64 - 'Email/Username' has been entered
+2019-02-18 15:23:42 INFO  LoginPage:67 - 'Password' has been entered
+2019-02-18 15:23:47 INFO  LoginPage:69 - User has clicked on 'SUBMIT' button
+2019-02-18 15:23:47 INFO  TC03_VerifyExistingUserLogin:48 - User has successfully logged into the application
+2019-02-18 15:23:48 INFO  TestBase:162 - Browser has been closed
+2019-02-18 15:23:51 INFO  TestBase:80 - Chrome browser launched successfully
+2019-02-18 15:24:01 INFO  TestBase:105 - Application URL has been entered
+2019-02-18 15:24:09 INFO  LandingPage:705 - User has clicked on 'LOGIN' menu present in Home|Landing Page
+2019-02-18 15:24:09 INFO  LoginPage:83 - User has clicked on 'Click Here to sign in to our new retailer website'
+2019-02-18 15:24:15 INFO  LoginPage:83 - User has clicked on 'Click Here to sign in to our new retailer website'
+2019-02-18 15:24:20 INFO  TC04_VerifyRetailerLogin:45 - Retailer site opened successfully
+2019-02-18 15:24:21 INFO  TestBase:162 - Browser has been closed

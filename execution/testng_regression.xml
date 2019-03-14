@@ -15,7 +15,7 @@
 		</classes>
 	</test>
 
-	<test name="Product_Management">
+	<!--<test name="Product_Management">
 		<classes>
 			<class
 				name="com.dreamorbit.faviana_b2cuk.productmanagement.TC00_VerifyLinksInLandingPage" />
@@ -50,5 +50,5 @@
 				name="com.dreamorbit.faviana_b2cuk.endtoendflow.TC01_VerifySuccessfulOrderForGuest" />
 
 		</classes>
-	</test>
+	</test> -->
 </suite> <!-- Regression_Suite -->

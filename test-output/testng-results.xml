@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression_Suite" duration-ms="137460" started-at="2019-02-18T09:52:04Z" finished-at="2019-02-18T09:54:21Z">
+    <groups>
+    </groups>
+    <test name="Customer_Management" duration-ms="137460" started-at="2019-02-18T09:52:04Z" finished-at="2019-02-18T09:54:21Z">
+      <class name="com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6043cd28]" name="setUp" is-config="true" duration-ms="24371" started-at="2019-02-18T09:53:09Z" finished-at="2019-02-18T09:53:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6043cd28]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-02-18T09:53:34Z" finished-at="2019-02-18T09:53:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin.verifyExistingUserLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyExistingUserLogin()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6043cd28]" name="verifyExistingUserLogin" duration-ms="13742" started-at="2019-02-18T09:53:34Z" finished-at="2019-02-18T09:53:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyExistingUserLogin -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6043cd28]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-02-18T09:53:47Z" finished-at="2019-02-18T09:53:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyExistingUserLogin status=SUCCESS method=TC03_VerifyExistingUserLogin.verifyExistingUserLogin()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6043cd28] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin@6043cd28]" name="tearDown" is-config="true" duration-ms="823" started-at="2019-02-18T09:53:47Z" finished-at="2019-02-18T09:53:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.customermanagement.TC03_VerifyExistingUserLogin -->
+      <class name="com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@42d8062c]" name="setUp" is-config="true" duration-ms="13915" started-at="2019-02-18T09:52:41Z" finished-at="2019-02-18T09:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@42d8062c]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-02-18T09:52:55Z" finished-at="2019-02-18T09:52:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia.verifyConnectUsingSocialMedia() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyConnectUsingSocialMedia()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@42d8062c]" name="verifyConnectUsingSocialMedia" duration-ms="13149" started-at="2019-02-18T09:52:55Z" finished-at="2019-02-18T09:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyConnectUsingSocialMedia -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@42d8062c]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-02-18T09:53:08Z" finished-at="2019-02-18T09:53:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyConnectUsingSocialMedia status=SUCCESS method=TC02_VerifyConnectUsingSocialMedia.verifyConnectUsingSocialMedia()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@42d8062c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia@42d8062c]" name="tearDown" is-config="true" duration-ms="976" started-at="2019-02-18T09:53:08Z" finished-at="2019-02-18T09:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.customermanagement.TC02_VerifyConnectUsingSocialMedia -->
+      <class name="com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@cb51256]" name="setUp" is-config="true" duration-ms="12558" started-at="2019-02-18T09:53:48Z" finished-at="2019-02-18T09:54:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyRetailerLogin()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@cb51256]" name="verifyRetailerLogin" duration-ms="19087" started-at="2019-02-18T09:54:01Z" finished-at="2019-02-18T09:54:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRetailerLogin -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@cb51256]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-02-18T09:54:01Z" finished-at="2019-02-18T09:54:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin.verifyRetailerLogin() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@cb51256]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-02-18T09:54:20Z" finished-at="2019-02-18T09:54:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyRetailerLogin status=SUCCESS method=TC04_VerifyRetailerLogin.verifyRetailerLogin()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@cb51256] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin@cb51256]" name="tearDown" is-config="true" duration-ms="1124" started-at="2019-02-18T09:54:20Z" finished-at="2019-02-18T09:54:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.customermanagement.TC04_VerifyRetailerLogin -->
+      <class name="com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@45820e51]" name="setUp" is-config="true" duration-ms="16067" started-at="2019-02-18T09:52:04Z" finished-at="2019-02-18T09:52:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@45820e51]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2019-02-18T09:52:21Z" finished-at="2019-02-18T09:52:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration.verifyNewCustomerRegistration(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyNewCustomerRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@45820e51]" name="verifyNewCustomerRegistration" duration-ms="19346" started-at="2019-02-18T09:52:21Z" data-provider="getRegisterTestData" finished-at="2019-02-18T09:52:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FNTEST]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LNTEST]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FNLN.]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Test@12345]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Test@12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewCustomerRegistration -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@45820e51]" name="afterMethod" is-config="true" duration-ms="1" started-at="2019-02-18T09:52:40Z" finished-at="2019-02-18T09:52:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyNewCustomerRegistration status=SUCCESS method=TC01_VerifyNewCustomerRegistration.verifyNewCustomerRegistration(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@45820e51] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration@45820e51]" name="tearDown" is-config="true" duration-ms="1062" started-at="2019-02-18T09:52:40Z" finished-at="2019-02-18T09:52:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.dreamorbit.faviana_b2cuk.customermanagement.TC01_VerifyNewCustomerRegistration -->
+    </test> <!-- Customer_Management -->
+  </suite> <!-- Regression_Suite -->
+</testng-results>
